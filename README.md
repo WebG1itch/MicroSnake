@@ -3,4 +3,4 @@ A simple implementation of the classic Snake game using SFML/C++... except it ha
 
 SnakeGame.exe is the actual game if you wanna run it :)
 
-![Demo Gif](https://github.com/WebG1itch/MicroSnake/MicroSnakeDemo.gif)
+![Demo Gif](https://github.com/WebG1itch/MicroSnake/blob/main/MicroSnakeDemo.gif)
